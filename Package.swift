@@ -13,7 +13,7 @@ let package = Package(
   ],
   dependencies: [
     .package(url: "https://github.com/JohnSundell/Publish.git", from: "0.9.0"),
-    .package(url: "https://github.com/TokamakUI/Tokamak.git", from: "0.9.0"),
+    .package(url: "https://github.com/treastrain/Tokamak.git", branch: "main"),
   ],
   targets: [
     .target(

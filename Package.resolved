@@ -42,8 +42,8 @@
         "repositoryURL": "https://github.com/swiftwasm/JavaScriptKit.git",
         "state": {
           "branch": null,
-          "revision": "309e63c03d8116210ad0437f5d1f09a26d4de48b",
-          "version": "0.11.1"
+          "revision": "096584bb6959f16d97daf3ebf52039f98c36fdbf",
+          "version": "0.18.0"
         }
       },
       {
@@ -51,8 +51,8 @@
         "repositoryURL": "https://github.com/OpenCombine/OpenCombine.git",
         "state": {
           "branch": null,
-          "revision": "28993ae57de5a4ea7e164787636cafad442d568c",
-          "version": "0.12.0"
+          "revision": "8576f0d579b27020beccbccc3ea6844f3ddfc2c2",
+          "version": "0.14.0"
         }
       },
       {
@@ -60,8 +60,8 @@
         "repositoryURL": "https://github.com/swiftwasm/OpenCombineJS.git",
         "state": {
           "branch": null,
-          "revision": "f1f1799ddbb9876a0ef8c5700a3b78d352d0b969",
-          "version": "0.1.2"
+          "revision": "e574e418ba468ff5c2d4c499eb56f108aeb4d2ba",
+          "version": "0.2.0"
         }
       },
       {
@@ -105,8 +105,8 @@
         "repositoryURL": "https://github.com/apple/swift-argument-parser",
         "state": {
           "branch": null,
-          "revision": "6b2aa2748a7881eebb9f84fb10c01293e15b52ca",
-          "version": "0.5.0"
+          "revision": "8f4d2753f0e4778c76d5f05ad16c74f707390531",
+          "version": "1.2.3"
         }
       },
       {
@@ -114,17 +114,17 @@
         "repositoryURL": "https://github.com/google/swift-benchmark",
         "state": {
           "branch": null,
-          "revision": "a0564bf88df5f94eec81348a2f089494c6b28d80",
-          "version": "0.1.1"
+          "revision": "8163295f6fe82356b0bcf8e1ab991645de17d096",
+          "version": "0.1.2"
         }
       },
       {
         "package": "Tokamak",
-        "repositoryURL": "https://github.com/TokamakUI/Tokamak.git",
+        "repositoryURL": "https://github.com/treastrain/Tokamak.git",
         "state": {
-          "branch": null,
-          "revision": "32616fe9d4d8dcdd6a48519e2ce8d7b0ba744434",
-          "version": "0.9.0"
+          "branch": "main",
+          "revision": "ba677b2d3408d6ace745a5a9b7d42308806136c4",
+          "version": null
         }
       }
     ]
