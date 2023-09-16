@@ -1,10 +1,10 @@
-// swift-tools-version:5.3
+// swift-tools-version:5.5
 
 import PackageDescription
 
 let package = Package(
   name: "TokamakPublish",
-  platforms: [.macOS(.v11)],
+  platforms: [.macOS(.v12)],
   products: [
     .library(
       name: "TokamakPublish",
@@ -12,7 +12,7 @@ let package = Package(
     ),
   ],
   dependencies: [
-    .package(url: "https://github.com/JohnSundell/Publish.git", from: "0.8.0"),
+    .package(url: "https://github.com/JohnSundell/Publish.git", from: "0.9.0"),
     .package(url: "https://github.com/TokamakUI/Tokamak.git", from: "0.9.0"),
   ],
   targets: [
